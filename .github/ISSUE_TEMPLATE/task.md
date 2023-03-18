@@ -4,18 +4,29 @@ about: Create a new Task
 title: "[TASK] **Task title goes here**"
 labels: task
 assignees: itCarl
-
 ---
 
-**Summary (short description)**
+### Summary (optional)
 
-- Basic Task
+- Task, a action that has to be done
 - descripe in few words as possible what the assignee has todo
 
-**Description**
+### Current state (required)
 
-A Text that goes into greater details on what is todo
+What is currently wrong with the application?
+Add Text here.
 
-**Notes**
+### Desired state (required)
+
+How should it be working? How should it be looking?
+Add Text for the desired state here.
+
+### What has to be done to fix it? (required)
+
+- [ ] Step one
+- [ ] Step two
+- [ ] Step three
+
+### Notes (optional)
 
 - if necessary add a few short notes/hints
