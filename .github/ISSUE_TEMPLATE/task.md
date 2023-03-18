@@ -7,7 +7,7 @@ assignees: itCarl
 
 ---
 
-**Summary (short desciption)**
+**Summary (short description)**
 
 - Basic Task
 - descripe in few words as possible what the assignee has todo
