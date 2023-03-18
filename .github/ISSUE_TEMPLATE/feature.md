@@ -1,5 +1,5 @@
 ---
-name: Task
+name: Feature
 about: Create a new Feature
 title: "[FEATURE] **Feature title goes here**"
 labels: feature
