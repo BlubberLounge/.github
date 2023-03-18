@@ -9,8 +9,8 @@ assignees: itCarl
 
 **Summary (short desciption)**
 
-- Basic Task
-- descripe in fex words as possible what the assignee has todo
+- Improvement
+- descripe in few words as possible what the assignee has todo
 
 **Description**
 

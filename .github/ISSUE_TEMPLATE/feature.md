@@ -1,15 +1,15 @@
 ---
 name: Task
-about: Create a new Task
-title: "[TASK] **Task title goes here**"
-labels: task
+about: Create a new Feature
+title: "[FEATURE] **Feature title goes here**"
+labels: feature
 assignees: itCarl
 
 ---
 
 **Summary (short desciption)**
 
-- Basic Task
+- Feature
 - descripe in few words as possible what the assignee has todo
 
 **Description**
